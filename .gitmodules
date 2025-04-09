@@ -1,0 +1,3 @@
+[submodule "vnp4_framework"]
+	path = vnp4_framework
+	url = https://github.com/iHalt10/vnp4_framework
