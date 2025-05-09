@@ -28,8 +28,8 @@ For CLI installation, modify the `Modules=` entry in `install_config.txt` from `
 #### Clone Project
 
 ```shell
-$ git clone https://github.com/iHalt10/vnp4_simple
-$ cd vnp4_simple
+$ git clone https://github.com/iHalt10/vnp4_user_extern
+$ cd vnp4_user_extern
 $ git submodule update --init --recursive
 ```
 
